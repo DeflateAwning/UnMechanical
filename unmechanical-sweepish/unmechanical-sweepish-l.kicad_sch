@@ -12502,7 +12502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-xp-various:CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal_FlushMount"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 261.62 25.4 0)
 			(effects
 				(font
